@@ -14,3 +14,4 @@ sweeps/
 *.pt
 process.py
 tmp_trainer/
+logs.txt
